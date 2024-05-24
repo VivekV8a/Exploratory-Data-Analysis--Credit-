@@ -2,6 +2,8 @@
 
 This Analysis will give basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
+**For Raw Data Please USe this Path: https://drive.google.com/drive/folders/1fKQnS9-MB92_G2JUzoG7_bguaxl9NRFK?usp=drive_link**
+
 Problem Statement 1:
 
 When the company receives a loan application, the company has to decide for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
