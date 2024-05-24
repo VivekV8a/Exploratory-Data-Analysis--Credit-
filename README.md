@@ -1,8 +1,8 @@
 **Credit EDA **
 
-This Analysis will give basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+This analysis will give basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
-**For Raw Data Please USe this Path: https://drive.google.com/drive/folders/1fKQnS9-MB92_G2JUzoG7_bguaxl9NRFK?usp=drive_link**
+**For raw data please use this path: https://drive.google.com/drive/folders/1fKQnS9-MB92_G2JUzoG7_bguaxl9NRFK?usp=drive_link**
 
 Problem Statement 1:
 
